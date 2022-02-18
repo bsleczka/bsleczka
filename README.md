@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bsleczka acctualny Barbara
+- 👋 Hi, I’m @bsleczka actually Barbara.
 - 👀 I’m interested in ... many things: digital creation, geology, furniture renovation, garden.
 - 🌱 I’m currently learning ...html&css.
 - 💞️ I’m looking to collaborate on ...website creation.
