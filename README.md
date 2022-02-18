@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bsleczka
-- 👀 I’m interested in ... many things.
+- 👋 Hi, I’m @bsleczka acctualny Barbara
+- 👀 I’m interested in ... many things: digital creation, geology, furniture renovation, garden.
 - 🌱 I’m currently learning ...html&css.
 - 💞️ I’m looking to collaborate on ...website creation.
 - 📫 How to reach me ... not allowed yet.
